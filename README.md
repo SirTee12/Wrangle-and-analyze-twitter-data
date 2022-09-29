@@ -25,7 +25,7 @@ retweeted_status_user_id and retweeted_status_timestamp contains null values
 + Presence of duplicate rows
 + Missing records due to missing tweet ids
 
-### programmatic Assessment
+### Programmatic Assessment
 This was done using the decribe(), duplicated(), info() and also searching for specific
 info about the datasets using the comparison operators
 
