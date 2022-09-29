@@ -3,7 +3,7 @@ The aim of the project is to demonstrate data wrangling and cleaning skills. Thr
 + The first dataset (twitter_archive_enhanced.csv) was already provided. The second
 dataset (image_predictions.tsv) was extracted from a url using **requests** library and
 stored using the **os** library. The third dataset was extracted from twitter using the
-tweepy API library with the help of twitter's consumer tokens and access tokens. The
+**tweepy** API library with the help of twitter's consumer tokens and access tokens. The
 twitter information gotten was written into text file (tweet_json.txt) the and the
 reqiured information for the analysis (tweet id, retweet count, favorite count) were
 extracted from the json file directly. This information was appended to a list and
